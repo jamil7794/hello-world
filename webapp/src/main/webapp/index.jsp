@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning and fuck you, and suck you, and love you </h1>
+   <h1> Thankyou, Happy Learning and fuck you, and suck you, and love you, and hate you </h1>
 
   
 </form>
